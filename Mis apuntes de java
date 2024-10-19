@@ -138,13 +138,13 @@ En Java, el switch es una estructura de control que permite tomar decisiones bas
 
 
 
-char vocal = 'A'
+char vocal = 'A';
 
 switch(vocal){ --> El switch es el encargado de decidir que decir
 
 
 
-case 'A' 
+case 'A':
 
 System.out.println("La vocal es A"); --> Imprime el resultado si el case 'A' es el correcto de la variable
 
@@ -152,7 +152,7 @@ break; --> (Es el encargado de parar la operacion si es correcta)
 
 
 
-case 'B'
+case 'B':
 
 System.out.println("La vocal es B"); --> Imprime el resultado si el case 'A' es el correcto de la variable
 
