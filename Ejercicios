@@ -1,0 +1,68 @@
+Ejercicios de Tipos de Datos
+
+1. Tipo int:
+
+Declara dos variables de tipo int: una para la cantidad de libros en una estantería y otra para la cantidad de estanterías. Calcula el total de libros en la estantería y muestra el resultado.
+
+
+
+2. Tipo double:
+
+Declara una variable double que represente la velocidad de un coche en km/h y otra que represente el tiempo en horas. Calcula la distancia recorrida y escribe un mensaje con el resultado.
+
+
+
+3. Tipo boolean:
+
+Declara una variable boolean que indique si un producto está en oferta. Imprime un mensaje que indique si el producto está disponible a un precio reducido o no.
+
+
+
+4. Tipo char:
+
+Declara una variable char que almacene una letra y escribe un mensaje que indique si es una letra mayúscula o minúscula.
+
+
+
+
+Ejercicios de Operadores Aritméticos
+
+1. Declara dos variables de tipo int y utiliza el operador de multiplicación para calcular el área de un rectángulo. Imprime el resultado con un mensaje descriptivo.
+
+
+2. Declara dos variables de tipo float para representar el precio y la cantidad de un producto, y calcula el costo total. Muestra el resultado.
+
+
+3. Usa el operador de módulo (%) para verificar si un número dado es par o impar. Imprime un mensaje que indique el resultado.
+
+
+
+Ejercicios de If & Else
+
+1. Declara una variable int para la temperatura en grados Celsius y utiliza una estructura if para determinar si hace frío (menos de 15 grados), calor (más de 25 grados) o temperatura agradable (entre 15 y 25 grados). Imprime un mensaje correspondiente.
+
+
+2. Crea un programa que declare una variable de tipo int para la calificación de un examen y use if y else para imprimir si la calificación es excelente (mayor o igual a 90), buena (80-89) o regular (menos de 80).
+
+
+
+Ejercicios de Switch Case
+
+1. Declara una variable int que represente un número del 1 al 12 y utiliza un switch para imprimir el nombre del mes correspondiente.
+
+
+2. Crea un switch que verifique un número del 1 al 5 y asigne un mensaje a cada número que indique la prioridad de una tarea (alta, media o baja).
+
+
+
+Ejercicios de Ciclo For
+
+1. Escribe un ciclo for que imprima los números del 10 al 1 en orden descendente.
+
+
+2. Crea un ciclo for que sume todos los números impares del 1 al 100 y luego imprima el resultado total.
+
+
+
+
+
