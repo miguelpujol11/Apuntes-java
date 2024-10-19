@@ -14,7 +14,7 @@ foat peso = 50,10;
 
 double grande = 10,993949495;
 
--Boolean --> Sirve para devolver un true/false, se utiliza para obtener el resultado de la evaluación de dos expresiones.
+-Boolean --> Sirve para devolver un true/false, se utiliza para obtener el resultado de la evaluación de dos expresiones. --> booelan oferta = true;
 
 -Char --> Se utiliza para almacenar caracteres individuales o letras.
 
